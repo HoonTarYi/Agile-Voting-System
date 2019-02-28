@@ -1,7 +1,7 @@
 <!-- Footer -->
 					<footer id="footer">
 						<ul class="copyright">
-							<li>&copy; Inti Penang Voting Website</li><li>Design: <a href="http://html5up.net">HoonTarYi</a></li>
+							<li>&copy; Voting Website</li><li>Design: <a href="http://html5up.net">HoonTarYi</a></li>
 						</ul>
 					</footer>
 		<!-- Scripts -->
